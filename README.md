@@ -4,10 +4,7 @@
 
 Data Scientist with Expertise in Deep Learning, Computer Vision, and NLP 🚀. Passionate about leveraging data to derive meaningful insights.
 
-- 📚**GitHub:** [mouraffa](https://github.com/mouraffa) 
-- 📧**Email:** mouraffayoussef@gmail.com 
-- 📄**Digital Resume:** [Check out my Digital Resume](https://digital-resume-with-app-dny3seferew7bf6fmsens7.streamlit.app/) 
-- 🔗**LinkedIn:** [Connect with me on LinkedIn](https://www.linkedin.com/in/youssef-mouraffa-316663201/) 
+- 📚**GitHub:** [mouraffa](https://github.com/mouraffa)  📧**Email:** mouraffayoussef@gmail.com  📄**Digital Resume:** [Check out my Digital Resume](https://digital-resume-with-app-dny3seferew7bf6fmsens7.streamlit.app/)  🔗**LinkedIn:** [Connect with me on LinkedIn](https://www.linkedin.com/in/youssef-mouraffa-316663201/) 
 
 ## About Me 🌟
 
