@@ -1,4 +1,6 @@
-#                                                                                          Youssef Mouraffa
+<div align="center">
+  <h1>Hi there 👋, I'm Youssef Mouraffa</h1>
+</div>
 
 Data Scientist with Expertise in Deep Learning, Computer Vision, and NLP 🚀. Passionate about leveraging data to derive meaningful insights.
 
@@ -19,12 +21,7 @@ I am a dedicated Data Scientist with a focus on Deep Learning, Computer Vision, 
 
 ## Skills and Technologies 🛠️
 
-- ![Python](https://github.com/mouraffa/mouraffa/blob/main/images/python.png) Python
-- ![TensorFlow](https://github.com/mouraffa/mouraffa/blob/main/images/tensorflow.png) TensorFlow
-- ![PyTorch](https://github.com/mouraffa/mouraffa/blob/main/images/pytorch.png) PyTorch
-- ![OpenCV](https://github.com/mouraffa/mouraffa/blob/main/images/opencv.png) OpenCV
-- ![NLP](https://github.com/mouraffa/mouraffa/blob/main/images/nlp.png) Natural Language Processing
-- ![Data Visualization](https://github.com/mouraffa/mouraffa/blob/main/images/data-viz.png) Data Visualization
+![Python](https://github.com/mouraffa/mouraffa/blob/main/images/python.png) Python ![TensorFlow](https://github.com/mouraffa/mouraffa/blob/main/images/tensorflow.png) TensorFlow ![PyTorch](https://github.com/mouraffa/mouraffa/blob/main/images/pytorch.png) PyTorch ![OpenCV](https://github.com/mouraffa/mouraffa/blob/main/images/opencv.png) OpenCV ![NLP](https://github.com/mouraffa/mouraffa/blob/main/images/nlp.png) Natural Language Processing ![Data Visualization](https://github.com/mouraffa/mouraffa/blob/main/images/data-viz.png) Data Visualization
 
 Feel free to explore my [GitHub repositories](https://github.com/mouraffa) for more projects and contributions.
 
