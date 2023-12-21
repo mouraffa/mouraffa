@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Hi there 👋, I'm Youssef Mouraffa</h1>
+  <h1>Youssef Mouraffa</h1>
 </div>
 
 Data Scientist with Expertise in Deep Learning, Computer Vision, and NLP 🚀. Passionate about leveraging data to derive meaningful insights.
