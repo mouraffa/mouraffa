@@ -19,13 +19,29 @@ I am a dedicated Data Scientist with a focus on Deep Learning, Computer Vision, 
 
 ## Skills and Technologies 🛠️
 
-[![Python](https://img.shields.io/badge/-Python-blue?style=flat-square&logo=python&logoColor=white)](#)
-[![TensorFlow](https://img.shields.io/badge/-TensorFlow-orange?style=flat-square&logo=tensorflow&logoColor=white)](#)
-[![PyTorch](https://img.shields.io/badge/-PyTorch-red?style=flat-square&logo=pytorch&logoColor=white)](#)
-[![OpenCV](https://img.shields.io/badge/-OpenCV-green?style=flat-square&logo=opencv&logoColor=white)](#)
-[![NLP](https://img.shields.io/badge/-NLP-lightgrey?style=flat-square)](#)
-[![Data Visualization](https://img.shields.io/badge/-Data%20Visualization-ff69b4?style=flat-square)](#)
+[![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](#)
+[![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)](#)
+[![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)](#)
+[![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)](#)
+[![NLP](https://img.shields.io/badge/-NLP-4db33d?style=for-the-badge)](#)
+[![Data Viz](https://img.shields.io/badge/-Data%20Viz-ff69b4?style=for-the-badge)](#)
 
+[![C](https://img.shields.io/badge/-C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)](#)
+[![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](#)
+[![Matlab](https://img.shields.io/badge/-Matlab-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)](#)
+[![YOLO](https://img.shields.io/badge/-YOLO-990000?style=for-the-badge)](#)
+[![CNN](https://img.shields.io/badge/-CNN-FF0000?style=for-the-badge)](#)
+[![RNN](https://img.shields.io/badge/-RNN-FF0000?style=for-the-badge)](#)
+
+[![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)](#)
+[![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberry%20pi&logoColor=white)](#)
+[![scikit-learn](https://img.shields.io/badge/-scikit%20learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)](#)
+[![Keras](https://img.shields.io/badge/-Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)](#)
+[![NumPy](https://img.shields.io/badge/-NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)](#)
+[![Pandas](https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)](#)
+[![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)](#)
+[![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=white)](#)
+[![LLM](https://img.shields.io/badge/-LLM-00599C?style=for-the-badge)](#)
 
 
 ## Projects 🚀
