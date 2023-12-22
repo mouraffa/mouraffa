@@ -19,9 +19,7 @@ I am a dedicated Data Scientist with a focus on Deep Learning, Computer Vision, 
 
 ## Skills and Technologies 🛠️
 
-## Skills and Technologies 🛠️
-
-[![Python](python-icon.png)](#)
+[![Python](https://img.shields.io/badge/-Python-blue?style=flat-square&logo=python&logoColor=white)](#)
 [![TensorFlow](https://img.shields.io/badge/-TensorFlow-orange?style=flat-square&logo=tensorflow&logoColor=white)](#)
 [![PyTorch](https://img.shields.io/badge/-PyTorch-red?style=flat-square&logo=pytorch&logoColor=white)](#)
 [![OpenCV](https://img.shields.io/badge/-OpenCV-green?style=flat-square&logo=opencv&logoColor=white)](#)
