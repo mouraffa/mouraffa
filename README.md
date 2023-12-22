@@ -19,9 +19,39 @@ I am a dedicated Data Scientist with a focus on Deep Learning, Computer Vision, 
 
 ## Projects 🚀
 
-- [Project 1](#) - Brief description of project 1.
-- [Project 2](#) - Brief description of project 2.
-- [Project 3](#) - Brief description of project 3.
+## Projects 🚀
+
+1. **RealTime Object Detection with YOLOv5**
+   - Comprehensive object detection using YOLOv5, trained from scratch.
+   - Includes data preparation, YOLOv5 training on 20 labels, and testing on images/videos.
+   - Utilizes Google Colab's V100 GPU for robust performance.
+   - [Explore RealTime Object Detection](https://github.com/mouraffa/RealTime-Object-Detection-YOLOv5) 
+
+2. **Skimlit: NLP Model for Sentence Classification**
+   - NLP Model for Sentence Classification replicating 'Neural Networks for Joint Sentence Classification in Medical Paper Abstracts.'
+   - Trains a deep learning model using the PubMed 20k RCT dataset.
+   - [Explore Skimlit NLP Model]([#](https://github.com/mouraffa/Skimlit-NLP-Model-for-Sentence-Classification-in-Paper-Abstracts))
+
+3. **Sentiment Analysis with Logistic Regression Classification**
+   - An advanced, Python-based sentiment analysis tool utilizing logistic regression.
+   - Accurately classifies Twitter messages using sophisticated NLP techniques.
+   - [Explore Sentiment Analysis](https://github.com/mouraffa/Sentimental_Analysis_LogRegClassification) 
+
+4. **StereoVision Depth Estimation**
+   - Utilizes computer vision techniques to estimate real-time depth from a webcam.
+   - Employs stereo vision and facial feature tracking for accurate depth estimation.
+   - [Explore StereoVision Depth Estimation](https://github.com/mouraffa/StereoVision-DepthEstimation)
+
+5. **Perceptron with One Hidden Layer**
+   - Implementation of a Perceptron with one hidden layer and softmax function.
+   - Builds a neural network for classifying input data into different categories.
+   - [Explore Perceptron with One Hidden Layer]((https://github.com/mouraffa/Perceptron-with-one-hidden-layer))
+
+6. **Linear Regression from Scratch in C++**
+   - Simple implementation of linear regression from scratch in C++.
+   - Includes Python scripts for data generation and error visualization.
+   - [Explore Linear Regression in C++](https://github.com/mouraffa/LinearRegression_CPP_FromScratch) 
+
 
 ## Skills and Technologies 🛠️
 
