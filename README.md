@@ -10,11 +10,13 @@
 
 ## Contact Information 📬
 
+## Contact Information 📬
+
 <div align="center">
-  <a href="https://github.com/mouraffa"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white&logoSize=30" alt="GitHub"></a>
-  <a href="mailto:mouraffayoussef@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&logoSize=30" alt="Email"></a>
-  <a href="https://digital-resume-with-app-dny3seferew7bf6fmsens7.streamlit.app/"><img src="https://img.shields.io/badge/-Digital%20Resume-8E24AA?style=for-the-badge&logo=file&logoColor=white&logoSize=30" alt="Digital Resume"></a>
-  <a href="https://www.linkedin.com/in/youssef-mouraffa-316663201/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&logoSize=30" alt="LinkedIn"></a>
+  <a href="https://github.com/mouraffa"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white&logoSize=30&labelColor=FF5722" alt="GitHub"></a>&nbsp;
+  <a href="mailto:mouraffayoussef@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&logoSize=30&labelColor=FFC107" alt="Email"></a>&nbsp;
+  <a href="https://digital-resume-with-app-dny3seferew7bf6fmsens7.streamlit.app/"><img src="https://img.shields.io/badge/-Digital%20Resume-8E24AA?style=for-the-badge&logo=file&logoColor=white&logoSize=30&labelColor=4CAF50" alt="Digital Resume"></a>&nbsp;
+  <a href="https://www.linkedin.com/in/youssef-mouraffa-316663201/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&logoSize=30&labelColor=2196F3" alt="LinkedIn"></a>
 </div>
 
 ## About Me 🌟
