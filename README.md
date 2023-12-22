@@ -17,7 +17,18 @@
 
 I am a dedicated Data Scientist with a focus on Deep Learning, Computer Vision, and Natural Language Processing (NLP). I enjoy working on projects that involve extracting valuable insights from data and solving real-world problems.
 
-## Projects 🚀
+## Skills and Technologies 🛠️
+
+## Skills and Technologies 🛠️
+
+[![Python](python-icon.png)](#)
+[![TensorFlow](https://img.shields.io/badge/-TensorFlow-orange?style=flat-square&logo=tensorflow&logoColor=white)](#)
+[![PyTorch](https://img.shields.io/badge/-PyTorch-red?style=flat-square&logo=pytorch&logoColor=white)](#)
+[![OpenCV](https://img.shields.io/badge/-OpenCV-green?style=flat-square&logo=opencv&logoColor=white)](#)
+[![NLP](https://img.shields.io/badge/-NLP-lightgrey?style=flat-square)](#)
+[![Data Visualization](https://img.shields.io/badge/-Data%20Visualization-ff69b4?style=flat-square)](#)
+
+
 
 ## Projects 🚀
 
@@ -52,12 +63,7 @@ I am a dedicated Data Scientist with a focus on Deep Learning, Computer Vision, 
    - Includes Python scripts for data generation and error visualization.
    - [Explore Linear Regression in C++](https://github.com/mouraffa/LinearRegression_CPP_FromScratch) 
 
-
-## Skills and Technologies 🛠️
-
-![Python](https://github.com/mouraffa/mouraffa/blob/main/images/python.png) Python ![TensorFlow](https://github.com/mouraffa/mouraffa/blob/main/images/tensorflow.png) TensorFlow ![PyTorch](https://github.com/mouraffa/mouraffa/blob/main/images/pytorch.png) PyTorch ![OpenCV](https://github.com/mouraffa/mouraffa/blob/main/images/opencv.png) OpenCV ![NLP](https://github.com/mouraffa/mouraffa/blob/main/images/nlp.png) Natural Language Processing ![Data Visualization](https://github.com/mouraffa/mouraffa/blob/main/images/data-viz.png) Data Visualization
-
-Feel free to explore my [GitHub repositories](https://github.com/mouraffa) for more projects and contributions.
+> Feel free to explore my [GitHub repositories](https://github.com/mouraffa) for more projects and contributions.
 
 ## Let's Connect 🤝
 
