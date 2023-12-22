@@ -15,7 +15,12 @@
 
 ## About Me 🌟
 
-I am a dedicated Data Scientist with a focus on Deep Learning, Computer Vision, and Natural Language Processing (NLP). I enjoy working on projects that involve extracting valuable insights from data and solving real-world problems.
+<div iv align="justify" style="font-size: 30px; line-height: 1.6; color: #6D4C41; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
+
+I'm a dedicated **Data Scientist** passionate about **Deep Learning**, **Computer Vision**, and **Natural Language Processing (NLP)**. I thrive on extracting valuable insights from data to solve real-world problems.
+
+</div>
+
 
 ## Skills and Technologies 🛠️
 
