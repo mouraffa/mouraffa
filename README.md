@@ -10,8 +10,6 @@
 
 ## Contact Information 📬
 
-## Contact Information 📬
-
 <div align="center">
   <a href="https://github.com/mouraffa"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white&logoSize=30&labelColor=FF5722" alt="GitHub"></a>&nbsp;
   <a href="mailto:mouraffayoussef@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&logoSize=30&labelColor=FFC107" alt="Email"></a>&nbsp;
