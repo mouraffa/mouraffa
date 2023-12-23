@@ -91,7 +91,7 @@ I'm a dedicated **Data Scientist** passionate about **Deep Learning**, **Compute
    - Includes Python scripts for data generation and error visualization.
    - [Explore Linear Regression in C++](https://github.com/mouraffa/LinearRegression_CPP_FromScratch) 
 
-> Feel free to explore my [GitHub repositories](https://github.com/mouraffa) for more projects and contributions.
+> `Feel free to explore my [GitHub repositories](https://github.com/mouraffa?tab=repositories) for more projects and contributions.`
 
 ## Let's Connect 🤝
 
