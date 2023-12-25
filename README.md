@@ -34,22 +34,18 @@ I'm a dedicated **Data Scientist** passionate about **Deep Learning**, **Compute
 [![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white&logoSize=2)](#)
 [![NLP](https://img.shields.io/badge/-NLP-4db33d?style=for-the-badge&logoSize=2)](#)
 [![Data Viz](https://img.shields.io/badge/-Data%20Viz-ff69b4?style=for-the-badge&logoSize=2)](#)
-
-[![C](https://img.shields.io/badge/-C-A8B9CC?style=for-the-badge&logo=c&logoColor=white&logoSize=2)](#)
-[![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white&logoSize=2)](#)
-[![Matlab](https://img.shields.io/badge/-Matlab-0076A8?style=for-the-badge&logo=mathworks&logoColor=white&logoSize=2)](#)
 [![YOLO](https://img.shields.io/badge/-YOLO-990000?style=for-the-badge&logoSize=2)](#)
-[![CNN](https://img.shields.io/badge/-CNN-FF0000?style=for-the-badge&logoSize=2)](#)
-[![RNN](https://img.shields.io/badge/-RNN-FF0000?style=for-the-badge&logoSize=2)](#)
-
-[![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white&logoSize=2)](#)
-[![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberry%20pi&logoColor=white&logoSize=2)](#)
 [![scikit-learn](https://img.shields.io/badge/-scikit%20learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white&logoSize=2)](#)
 [![Keras](https://img.shields.io/badge/-Keras-D00000?style=for-the-badge&logo=keras&logoColor=white&logoSize=2)](#)
 [![NumPy](https://img.shields.io/badge/-NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white&logoSize=2)](#)
 [![Pandas](https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white&logoSize=2)](#)
 [![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white&logoSize=2)](#)
-[![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=white&logoSize=2)](#)
+
+[![C](https://img.shields.io/badge/-C-A8B9CC?style=for-the-badge&logo=c&logoColor=white&logoSize=2)](#)
+[![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white&logoSize=2)](#)
+[![Matlab](https://img.shields.io/badge/-Matlab-0076A8?style=for-the-badge&logo=mathworks&logoColor=white&logoSize=2)](#)
+[![CNN](https://img.shields.io/badge/-CNN-FF0000?style=for-the-badge&logoSize=2)](#)
+[![RNN](https://img.shields.io/badge/-RNN-FF0000?style=for-the-badge&logoSize=2)](#)
 [![LLM](https://img.shields.io/badge/-LLM-00599C?style=for-the-badge&logoSize=2)](#)
 
 [![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white&logoSize=2)](#)
@@ -57,6 +53,9 @@ I'm a dedicated **Data Scientist** passionate about **Deep Learning**, **Compute
 [![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&logoSize=2)](#)
 [![SQL/Mysql](https://img.shields.io/badge/-SQL/Mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white&logoSize=2)](#)
 
+[![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white&logoSize=2)](#)
+[![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberry%20pi&logoColor=white&logoSize=2)](#)
+[![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=white&logoSize=2)](#)
 
 ## Projects 🚀
 
