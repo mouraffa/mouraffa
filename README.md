@@ -40,6 +40,8 @@ I'm a dedicated **Data Scientist** passionate about **Deep Learning**, **Compute
 [![NumPy](https://img.shields.io/badge/-NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white&logoSize=2)](#)
 [![Pandas](https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white&logoSize=2)](#)
 [![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white&logoSize=2)](#)
+[![Seaborn](https://img.shields.io/badge/-Seaborn-4E5180?style=for-the-badge&logo=python&logoColor=white&logoSize=2)](#)
+
 
 [![C](https://img.shields.io/badge/-C-A8B9CC?style=for-the-badge&logo=c&logoColor=white&logoSize=2)](#)
 [![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white&logoSize=2)](#)
@@ -47,6 +49,9 @@ I'm a dedicated **Data Scientist** passionate about **Deep Learning**, **Compute
 [![CNN](https://img.shields.io/badge/-CNN-FF0000?style=for-the-badge&logoSize=2)](#)
 [![RNN](https://img.shields.io/badge/-RNN-FF0000?style=for-the-badge&logoSize=2)](#)
 [![LLM](https://img.shields.io/badge/-LLM-00599C?style=for-the-badge&logoSize=2)](#)
+[![GANs](https://img.shields.io/badge/-GANs-FF69B4?style=for-the-badge&logoSize=2)](#)
+
+
 
 [![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white&logoSize=2)](#)
 [![Amazon](https://img.shields.io/badge/-Amazon-232F3E?style=for-the-badge&logo=amazon&logoColor=white&logoSize=2)](#)
