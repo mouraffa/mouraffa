@@ -41,6 +41,8 @@ I'm a dedicated **Data Scientist** passionate about **Deep Learning**, **Compute
 [![Pandas](https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white&logoSize=2)](#)
 [![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white&logoSize=2)](#)
 [![Seaborn](https://img.shields.io/badge/-Seaborn-4E5180?style=for-the-badge&logo=python&logoColor=white&logoSize=2)](#)
+[![Langchain](https://img.shields.io/badge/-Langchain-2b77b2?style=for-the-badge&logoSize=2)](#)
+
 
 
 [![C](https://img.shields.io/badge/-C-A8B9CC?style=for-the-badge&logo=c&logoColor=white&logoSize=2)](#)
